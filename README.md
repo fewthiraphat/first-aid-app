@@ -1,2 +1,2 @@
-# first-aid-app
-this app used for make people know how to first aid with yourself
+# First Aid App
+เป็นแอปพลิเคชั่นที่พัฒนาด้วย React Native สำหรับการให้ความรู้เรื่องการปฐมพยาบาลเบื้องต้น สามารถรันได้ทั้งบนระบบปฎิบัติการ Android, IOS
