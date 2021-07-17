@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "First Aid App",
+    "slug": "first-aid-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "firstaidapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/dockit.png",
+        "backgroundColor": "#FFFFFF",
+      },
+      "package": "com.fewthiraphat.firstaidapp"
+    },
+    "web": {
+      "favicon": "./assets/dockit.png"
+    }
+  }
+}
